@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# Gemini Landing Page
+
+A sleek and modern landing page for Gemini, built with **ReactJS** and styled using **TailwindCSS**. This landing page is designed to present Gemini's features and provide an engaging user experience, with a responsive layout that adapts to different screen sizes.
+
+## Features
+
+- **Responsive Design**: Built with TailwindCSS to ensure the landing page is mobile-friendly and adjusts perfectly across devices.
+- **Interactive Elements**: Smooth animations and interactive features powered by ReactJS to engage users.
+- **Hero Section**: A captivating introduction section with a call-to-action button.
+- **Feature Sections**: Highlight key features of Gemini with eye-catching visuals and concise text.
+- **Footer**: Contains social media links and important footer details.
+
+## Technologies Used
+
+- **ReactJS**: JavaScript library for building user interfaces.
+- **TailwindCSS**: Utility-first CSS framework for rapid UI development.
+- **React Router**: For navigating between different sections of the landing page (if applicable).
+- **FontAwesome**: For adding scalable vector icons (if icons are used in the project).
+
+## Installation Instructions
+
+### 1. Clone the Repository
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
